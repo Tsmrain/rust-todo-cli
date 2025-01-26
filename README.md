@@ -15,7 +15,7 @@
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TuUsuario/rust-todo-cli.git
+git clone https://github.com/Tsmrain/rust-todo-cli.git
  
 cd rust-todo-cli
 cargo run
